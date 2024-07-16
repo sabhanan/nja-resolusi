@@ -6,5 +6,6 @@ RENCANA CONTENT
 *Branch
 *Marge
 ^push
+^pull
 -Fundamental laravel
 -phython
