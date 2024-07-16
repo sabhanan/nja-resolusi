@@ -5,7 +5,7 @@ RENCANA CONTENT
 *commit
 *Branch
 *Marge
-^commit
-^branch
+^push
+^pull
 -Fundamental laravel
-^laravel adobs
+-phython
